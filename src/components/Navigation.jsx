@@ -38,6 +38,9 @@ function Navigation() {
             <NavLink className="nav-link" to="/lifecycle">
               Lifecycle
             </NavLink>
+            <NavLink className="nav-link" to="/quiz">
+              Quiz
+            </NavLink>
             {/* <NavLink className="nav-link" to="/scientificname">
               Scientific Name and Classification
             </NavLink> */}

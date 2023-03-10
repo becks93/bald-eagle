@@ -12,6 +12,7 @@ import {
   Habitat,
   ScientificName,
   Lifecycle,
+  Quiz,
 } from "./components";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -28,9 +29,9 @@ root.render(
         <Route path="/habitat" element={<Habitat />} />
         <Route path="/lifecycle" element={<Lifecycle />} />
         <Route path="/scientificname" element={<ScientificName />} />
+        <Route path="/quiz" element={<Quiz />} />
       </Routes>
     </Router>
     {/* <App /> */}
   </React.StrictMode>
 );
-

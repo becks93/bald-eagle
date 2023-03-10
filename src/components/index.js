@@ -7,3 +7,4 @@ export { default as Behavior } from "./Behavior";
 export { default as Habitat } from "./Habitat";
 export { default as Lifecycle } from "./Lifecycle";
 export { default as ScientificName } from "./ScientificName";
+export { default as Quiz } from "./Quiz";
