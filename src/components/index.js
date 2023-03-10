@@ -1,0 +1,9 @@
+export { default as Navigation } from "./Navigation";
+export { default as Home } from "./Home";
+export { default as Diet } from "./Diet";
+export { default as ImageGallery } from "./ImageGallery";
+export { default as Anatomy } from "./Anatomy";
+export { default as Behavior } from "./Behavior";
+export { default as Habitat } from "./Habitat";
+export { default as Lifecycle } from "./Lifecycle";
+export { default as ScientificName } from "./ScientificName";
