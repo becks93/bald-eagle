@@ -3,7 +3,14 @@ import { NavLink } from "react-router-dom";
 
 function Navigation() {
   return (
-    <div className="navigation" style={{ background: "yellow", color: "black", margin: '0px 10px 0px 5px' }}>
+    <div
+      className="navigation"
+      style={{
+        background: "white",
+        color: "black",
+        margin: "0px 10px 0px 5px",
+      }}
+    >
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <div className="container">
           <div
