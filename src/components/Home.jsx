@@ -12,7 +12,7 @@ function Home() {
           <h3>Let's learn about bald eagles!</h3>
           <h4>
             Click a button at the top to learn more about diet, anatomy,
-            behavior, habitat, and lifecycle.
+            behavior, habitat, and lifecycle!
           </h4>
         </header>
       </div>
